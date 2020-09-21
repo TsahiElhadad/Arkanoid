@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c8bcb7a-f6d6-459c-bdbe-f1e67ea3abe7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cGYtensdVR1NfMVXJxkwRuXI8A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Ass6Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ass6Game" />
+      <module name="ass6new" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ass6Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c8bcb7a-f6d6-459c-bdbe-f1e67ea3abe7" name="Default Changelist" comment="" />
+      <created>1590156612813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590156612813</updated>
+      <workItem from="1590156618351" duration="113000" />
+      <workItem from="1590156743557" duration="91000" />
+      <workItem from="1590156846830" duration="375000" />
+      <workItem from="1590223324085" duration="801000" />
+      <workItem from="1590315766430" duration="4324000" />
+      <workItem from="1590522770086" duration="701000" />
+      <workItem from="1590582281595" duration="844000" />
+      <workItem from="1590949240469" duration="628000" />
+      <workItem from="1591211327947" duration="37000" />
+      <workItem from="1591211382907" duration="113942000" />
+      <workItem from="1591704770080" duration="5759000" />
+      <workItem from="1591968673786" duration="746000" />
+      <workItem from="1592071762039" duration="45647000" />
+      <workItem from="1592502051735" duration="12965000" />
+      <workItem from="1595430584321" duration="67000" />
+      <workItem from="1600715158349" duration="197000" />
+      <workItem from="1600715423337" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592231898896">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592231898896" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1592676771601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592676771601" />
+    <state width="1492" height="162" key="GridCell.Tab.0.bottom" timestamp="1600715354667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="162" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600715354667" />
+    <state width="1492" height="162" key="GridCell.Tab.0.center" timestamp="1600715354666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="162" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600715354666" />
+    <state width="1492" height="162" key="GridCell.Tab.0.left" timestamp="1600715354666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="162" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600715354666" />
+    <state width="1492" height="162" key="GridCell.Tab.0.right" timestamp="1600715354666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="162" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600715354666" />
+    <state x="209" y="33" key="new project wizard" timestamp="1595430647302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1595430647302" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1592502762545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1592502762545" />
+    <state x="122" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592151347184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="122" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592151347184" />
+  </component>
+</project>
