@@ -1,12 +1,8 @@
-package Menu;
-
-import animation.Animation;
-import animation.AnimationRunner;
+package menu;
 import biuoop.DrawSurface;
 import biuoop.KeyboardSensor;
 import game.SelectionMenu;
 import interfaces.Menu;
-
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.List;
@@ -42,7 +38,7 @@ public class MenuAnimation<T> implements Menu<T> {
 
     /**
      * Return the current val.
-     * @return
+     * @return the current val
      */
     @Override
     public T getStatus() {
@@ -67,12 +63,11 @@ public class MenuAnimation<T> implements Menu<T> {
             i += 50;
         }
 
-        // loop over the chises of menu.
+        // loop over the choises of menu.
         for (SelectionMenu<T> choise : this.selectionMenuList) {
             // if this key was pressed.
             if (this.keyboardSensor.isPressed(choise.getKey())) {
                 this.valStatus = choise.getReturnVal();
-                System.out.println(choise.getReturnVal().toString());
                 this.stop = true;
             }
         }

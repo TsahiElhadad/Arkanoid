@@ -1,8 +1,6 @@
-package Menu;
-
+package menu;
 import animation.Animation;
 import biuoop.DrawSurface;
-
 import java.awt.*;
 
 public class HighScoreAnimation implements Animation {

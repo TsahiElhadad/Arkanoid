@@ -1,7 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c8bcb7a-f6d6-459c-bdbe-f1e67ea3abe7" name="Default Changelist" comment="" />
+    <list default="true" id="2c8bcb7a-f6d6-459c-bdbe-f1e67ea3abe7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arkanoid/Ass7Game$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ass6.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ass6new.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Arkanoid.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkstyle-5.7-all.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/highScore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/highScore.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level_definition.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/Ass6Game$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/Ass7Game$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/Ass6Game$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/Ass6Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/Ass7Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/Menu/HighScoreAnimation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/menu/HighScoreAnimation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/Menu/MenuAnimation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/menu/MenuAnimation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/Menu/ShowHiScoresTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/menu/ShowHiScoresTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/animation/Animation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/animation/Animation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/animation/AnimationRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/animation/AnimationRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/animation/CountdownAnimation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/animation/CountdownAnimation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/animation/EndScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/animation/EndScreen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/animation/KeyPressStoppableAnimation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/animation/KeyPressStoppableAnimation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/animation/PauseScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/animation/PauseScreen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/game/Ball.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/game/Ball.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/game/Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/game/Block.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/game/CollisionInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/game/CollisionInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/game/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/game/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/game/GameEnvironment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/game/GameEnvironment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/game/GameFlow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/game/GameFlow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/game/GameLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/game/GameLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/game/LivesIndicator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/game/LivesIndicator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/game/Paddle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/game/Paddle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/game/ScoreIndicator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/game/ScoreIndicator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/game/SelectionMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/game/SelectionMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/game/SpriteCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/game/SpriteCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/game/Velocity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/game/Velocity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/geometry/Line.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/geometry/Line.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/geometry/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/geometry/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/geometry/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/geometry/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/interfaces/Collidable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/interfaces/Collidable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/interfaces/HitListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/interfaces/HitListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/interfaces/HitNotifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/interfaces/HitNotifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/interfaces/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/interfaces/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/interfaces/Sprite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/interfaces/Sprite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/interfaces/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/interfaces/Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/io/HighScoreFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/io/HighScoreFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/io/LevelSpecificationReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/io/LevelSpecificationReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/levels/DirectHit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/levels/DirectHit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/levels/DirecteHitBackground.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/levels/DirecteHitBackground.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/levels/FinalFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/levels/FinalFour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/levels/FinalFourBackground.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/levels/FinalFourBackground.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/levels/Green3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/levels/Green3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/levels/Green3Background.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/levels/Green3Background.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/levels/LevelGeneretor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/levels/LevelGeneretor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/levels/LevelInformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/levels/LevelInformation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/levels/WideEasy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/levels/WideEasy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/levels/WildEasyBackground.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/levels/WildEasyBackground.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/listeners/BallRemover.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/listeners/BallRemover.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/listeners/BlockRemover.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/listeners/BlockRemover.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ass6new/listeners/ScoreTrackingListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arkanoid/listeners/ScoreTrackingListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass6Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ass7Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu/HighScoreAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/menu/HighScoreAnimation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu/MenuAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/menu/MenuAnimation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu/ShowHiScoresTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/menu/ShowHiScoresTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/GameFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/GameLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/LevelSpecificationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/LevelSpecificationReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/levels/LevelGeneretor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/levels/LevelGeneretor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +90,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -29,6 +104,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1cGYtensdVR1NfMVXJxkwRuXI8A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,25 +112,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunManager">
-    <configuration name="Ass6Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ass6Game" />
-      <module name="ass6new" />
+    <configuration name="Ass7Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ass7Game" />
+      <module name="Arkanoid" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ass6Game" />
+        <item itemvalue="Application.Ass7Game" />
       </list>
     </recent_temporary>
   </component>
@@ -85,48 +163,72 @@
       <workItem from="1595430584321" duration="67000" />
       <workItem from="1600715158349" duration="197000" />
       <workItem from="1600715423337" duration="2000" />
+      <workItem from="1600717982114" duration="724000" />
+      <workItem from="1602009543203" duration="43000" />
+      <workItem from="1602009772069" duration="55000" />
+      <workItem from="1602009856371" duration="8384000" />
+      <workItem from="1602057808771" duration="1990000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592231898896">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602016702422">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592231898896" />
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1592676771601">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602016702422" />
+    <state x="516" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600718007065">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592676771601" />
-    <state width="1492" height="162" key="GridCell.Tab.0.bottom" timestamp="1600715354667">
+    <state x="516" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1600718007065" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1602057928386">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="162" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600715354667" />
-    <state width="1492" height="162" key="GridCell.Tab.0.center" timestamp="1600715354666">
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602057928386" />
+    <state x="639" y="306" width="333" height="212" key="Github.ShareDialog" timestamp="1602058183638">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="162" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600715354666" />
-    <state width="1492" height="162" key="GridCell.Tab.0.left" timestamp="1600715354666">
+    <state x="639" y="306" width="333" height="212" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1602058183638" />
+    <state width="1492" height="162" key="GridCell.Tab.0.bottom" timestamp="1602058298990">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="162" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600715354666" />
-    <state width="1492" height="162" key="GridCell.Tab.0.right" timestamp="1600715354666">
+    <state width="1492" height="162" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602058298990" />
+    <state width="1492" height="162" key="GridCell.Tab.0.center" timestamp="1602058298989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="162" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600715354666" />
+    <state width="1492" height="162" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602058298989" />
+    <state width="1492" height="162" key="GridCell.Tab.0.left" timestamp="1602058298989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="162" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602058298989" />
+    <state width="1492" height="162" key="GridCell.Tab.0.right" timestamp="1602058298989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="162" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602058298989" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1602074981622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602074981622" />
+    <state x="462" y="10" width="611" height="804" key="find.popup" timestamp="1602017065849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="10" width="611" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1602017065849" />
     <state x="209" y="33" key="new project wizard" timestamp="1595430647302">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1595430647302" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1592502762545">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1592502762545" />
-    <state x="122" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592151347184">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="122" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592151347184" />
   </component>
 </project>

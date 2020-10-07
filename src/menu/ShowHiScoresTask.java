@@ -1,4 +1,4 @@
-package Menu;
+package menu;
 
 import animation.Animation;
 import animation.AnimationRunner;

@@ -20,28 +20,25 @@ import java.io.IOException;
 import java.io.Reader;
 import java.util.ArrayList;
 import java.util.List;
-import Menu.HighScoreAnimation;
-import Menu.MenuAnimation;
-import Menu.ShowHiScoresTask;
+import menu.HighScoreAnimation;
+import menu.MenuAnimation;
+import menu.ShowHiScoresTask;
 import io.LevelSpecificationReader;
 
 /**.
- * Main class for assigment 6.
+ * Main class for assigment 7.
  */
-public class Ass6Game {
+public class Ass7Game {
     /**.
-     * Main function for ASS6, starting the game.
+     * Main function for ASS7, starting the game.
      * @param args - not get arguments from the user.
      */
     public static void main(String[] args) {
-        // make animation runner and keyboard sensor for the game.
+        // make animation runner and keyboard sensor.
         AnimationRunner animationRunner = new AnimationRunner();
         KeyboardSensor keyboard = animationRunner.getKeyboard();
-        //Menu<Task<Void>> menu = new MenuAnimation<Task<Void>>(keyboard);
-//        menu.addSelection("s", "start game", "game flow");
         // make HighScoreFile with 0 score.
         HighScoreFile highScoreFile = new HighScoreFile(0);
-        //HighScoreAnimation highScoreAnimation = new HighScoreAnimation(highScoreFile.getHightScore());
         // MAKE MENU SELECTION.
         try {
             List<LevelInformation> listLevelInfo = new ArrayList<>();
@@ -60,7 +57,7 @@ public class Ass6Game {
             menu.addSelection("s", "Start Game - press s", new Task<Void>() {
                 @Override
                 public Void run() {
-                    GameFlow game = new GameFlow(animationRunner, keyboard, 1);
+                    GameFlow game = new GameFlow(animationRunner, keyboard, 3);
                     game.runLevels(makeLevelsList());
                     return null;
                 }
@@ -83,46 +80,12 @@ public class Ass6Game {
             Task<Void> task = menu.getStatus();
             // DO ACOORDING TO STATUS.
             task.run();
-            //((MenuAnimation) menu).resetMenu();
         }
-
-//
-//        // make 4 levels of game.
-//        LevelInformation level1 = new DirectHit();
-//        LevelInformation level2 = new WideEasy();
-//        LevelInformation level3 = new Green3();
-//        LevelInformation level4 = new FinalFour();
-//        // make list of LevelInformation
-//        List<LevelInformation> listLevels = new ArrayList<LevelInformation>();
-//        // make a gameFlow with 7 lives.
-//        GameFlow game = new GameFlow(animationRunner, keyboard, 1);
-//        // if we d'ont get arguments from the user, play 4 levels.
-//        if (args.length != 0) {
-//            for (String s : args) {
-//                // if pressed 1 for level 1.
-//                if (s.equals("1")) {
-//                    listLevels.add(level1);
-//                } else if (s.equals("2")) { // if pressed 2 for level 2.
-//                    listLevels.add(level2);
-//                } else if (s.equals("3")) { // if pressed 3 for level 3.
-//                    listLevels.add(level3);
-//                } else if (s.equals("4")) { // if pressed 4 for level 4.
-//                    listLevels.add(level4);
-//                }
-//            }
-//        }
-//        // if listLevels is empty
-//            if (listLevels.isEmpty()) {
-//                listLevels.add(level1);
-//                listLevels.add(level2);
-//                listLevels.add(level3);
-//                listLevels.add(level4);
-//                game.runLevels(listLevels);
-//            } else { // we get arguments from user.
-//                game.runLevels(listLevels);
-//        }
     }
 
+    /*
+    Return list of levels of game.
+     */
     public static List<LevelInformation> makeLevelsList() {
         // make 4 levels of game.
         LevelInformation level1 = new DirectHit();
@@ -131,10 +94,10 @@ public class Ass6Game {
         LevelInformation level4 = new FinalFour();
         // make list of LevelInformation
         List<LevelInformation> listLevels = new ArrayList<LevelInformation>();
-//        listLevels.add(level1);
+        listLevels.add(level1);
         listLevels.add(level2);
-//        listLevels.add(level3);
-//        listLevels.add(level4);
+        listLevels.add(level3);
+        listLevels.add(level4);
         return listLevels;
     }
 }

@@ -4,7 +4,7 @@
  */
 package game;
 
-import Menu.HighScoreAnimation;
+import menu.HighScoreAnimation;
 import animation.AnimationRunner;
 import animation.EndScreen;
 import animation.KeyPressStoppableAnimation;
@@ -64,6 +64,7 @@ public class GameFlow {
                 // go to highScore screen.
                 this.animationRunner.run(new KeyPressStoppableAnimation(this.keyboard, KeyboardSensor.SPACE_KEY,
                         highScoreAnimation));
+                break;
             }
         }
         // load the new score.
@@ -77,6 +78,5 @@ public class GameFlow {
             this.animationRunner.run(new KeyPressStoppableAnimation(this.keyboard, KeyboardSensor.SPACE_KEY,
                     highScoreAnimation));
         }
-        ifWin = true;
     }
 }

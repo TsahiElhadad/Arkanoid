@@ -3,7 +3,6 @@ package levels;
 import game.Block;
 import game.Velocity;
 import interfaces.Sprite;
-
 import java.util.List;
 
 public class LevelGeneretor implements LevelInformation {

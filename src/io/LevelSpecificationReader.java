@@ -31,13 +31,7 @@ public class LevelSpecificationReader {
             List<Point> locationBlocks = new ArrayList<>();
             List<Integer> rowHeightList = new ArrayList<>();
             List<Integer> numblocksList = new ArrayList<>();
-            // get the first line from file.
-//            // check start of level.
-//            if (line.equals("START_LEVEL")) {
-//                line = bufferedReader.readLine();
-//                // get the game level
-//
-//            }
+
             String line;
             while ((line = bufferedReader.readLine()) != null) {
                 if (line.startsWith("level_name")) {
@@ -96,13 +90,7 @@ public class LevelSpecificationReader {
                     this.y = -1;
                 }
             }
-            // Add the locations blocks.
-//            for(int i = 0; i < levelNameList.size(); i++) {
-//                // add new levelInformation to list.
-//                lstLevelInfo.add(new LevelGeneretor(numblocksList.get(i), velocityList.get(i),
-//                        paddleSpeedList.get(i), paddleWidthList.get(i), levelNameList.get(i),
-//                        backgroundList.get(i), numblocksList.get(i));
-//            }
+
             return lstLevelInfo;
         } catch (IOException e) {
             System.out.println(e.getMessage());

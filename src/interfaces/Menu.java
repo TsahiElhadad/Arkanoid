@@ -6,8 +6,7 @@ public interface Menu<T> extends Animation {
     void addSelection(String key, String message, T returnVal);
 
     /**
-     *
-     * @return
+     * @return the status.
      */
     T getStatus();
 }

@@ -4,12 +4,9 @@
  */
 package game;
 
-import Menu.HighScoreAnimation;
-import io.HighScoreFile;
 import animation.Animation;
 import animation.AnimationRunner;
 import animation.CountdownAnimation;
-import animation.EndScreen;
 import animation.KeyPressStoppableAnimation;
 import animation.PauseScreen;
 import biuoop.KeyboardSensor;
